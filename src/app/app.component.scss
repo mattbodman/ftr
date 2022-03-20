@@ -1,0 +1,7 @@
+button {
+  @apply w-20 h-10 text-white;
+
+  &:disabled{
+    @apply bg-opacity-30;
+  }
+}
